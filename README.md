@@ -16,11 +16,11 @@
   </tr>
   <tr>
     <th>Population</th>
-    <td>67,252</th>
-    <td>37,092</th>
-    <td>177,115</th>
-    <td>246,851</th>
-    <td>2.361M</th>
+    <td>67,252</td>
+    <td>37,092</td>
+    <td>177,115</td>
+    <td>246,851</td>
+    <td>2.361M</td>
   </tr>
   <tr>
     <th>Racial Demographics<span style="font-size:8px;">*</span></th>
