@@ -48,3 +48,5 @@
   </tr>
 </table>
 <span style="font-size:10px;">*Racial groups with a percentage of 0% were not included</span>
+<H2>HC3</H2>
+The Clean Heat Program has helped New York City improve its air pollution by installing 70% renewable gases and helping the city achieve 0 emissions by 2040. Every home is equipped with two types of gas called #4 and #6. This helps reduce emissions to the environment while still meeting the needs of users from families to large restaurants. Furthermore, the Clean Heat Program also strictly controls installed equipment to control the level of environmental emissions as well as to encourage every home to use more renewable sources than fossil fuels.
