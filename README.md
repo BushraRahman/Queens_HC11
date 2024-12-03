@@ -23,7 +23,7 @@
     <td>2.361M</td>
   </tr>
   <tr>
-    <th>Racial Demographics<span style="font-size:8px;">*</span></th>
+    <th>Racial Demographics<span style="font-size:10px;">*</span></th>
     <td>54% Hispanic<br>21% Asian<br>19% White<br>3% Black<br>3% Two+<br>1% Other</td>
     <td>60% Hispanic<br>20% Asian<br>14% White<br>3% Black<br>2% Two+<br>1% Other<br>0% NHPI</td>
     <td>25% Hispanic<br>17% Asian<br>43% White<br>9% Black</td>
@@ -47,4 +47,4 @@
     <td>$82,431</td>
   </tr>
 </table>
-<span style="font-size:8px;">*Racial groups with a percentage of 0% were not included</span>
+<span style="font-size:10px;">*Racial groups with a percentage of 0% were not included</span>
