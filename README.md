@@ -5,14 +5,14 @@
 
 <p> Write a brief summary here:</p>
 <H2>HC2</H2>
-<table>
+<table width="100%">
   <tr>
-    <th></th>
-    <th>Jackson Heights</th>
-    <th>Woodhaven</th>
-    <th>Astoria</th>
-    <th>Flushing</th>
-    <th>Queens Overall</th>
+    <the width="20%"></th>
+    <the width="16%">Jackson Heights</th>
+    <th width="16%">Woodhaven</th>
+    <th width="16%">Astoria</th>
+    <th width="16%">Flushing</th>
+    <th width="16%">Queens Overall</th>
   </tr>
   <tr>
     <th>Population</th>
