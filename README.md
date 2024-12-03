@@ -20,15 +20,15 @@
     <td>37,092</td>
     <td>177,115</td>
     <td>246,851</td>
-    <td>2.361M</td>
+    <td>2,393,104</td>
   </tr>
   <tr>
     <th>Racial Demographics<span style="font-size:10px;">*</span></th>
     <td>54% Hispanic<br>21% Asian<br>19% White<br>3% Black<br>3% Two+<br>1% Other</td>
-    <td>60% Hispanic<br>20% Asian<br>14% White<br>3% Black<br>2% Two+<br>1% Other<br>0% NHPI</td>
+    <td>60% Hispanic<br>20% Asian<br>14% White<br>3% Black<br>2% Two+<br>1% Other</td>
     <td>25% Hispanic<br>17% Asian<br>43% White<br>9% Black</td>
     <td>17% Hispanic<br>60% Asian<br>16% White<br>4% Black<br>2% Two+<br>1% Other</td>
-    <td>26% Asian<br>24% White<br>17% Black<br>14% Hispanic (Other)<br>7% Hispanic (White)</td>
+    <td>28% Hispanic<br>26% Asian<br>25% White<br>17% Black<br>3% Two+<br>2% Other</td>
   </tr>
   <tr>
     <th>Median Age</th>
@@ -44,7 +44,7 @@
     <td>$71,155</td>
     <td>$114,570</td>
     <td>$73,200</td>
-    <td>$82,431</td>
+    <td>$75,886</td>
   </tr>
 </table>
 <span style="font-size:10px;">*Racial groups with a percentage of 0% were not included</span>
