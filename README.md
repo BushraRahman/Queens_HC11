@@ -7,8 +7,8 @@
 <H2>HC2</H2>
 <table width="100%">
   <tr>
-    <the width="20%"></th>
-    <the width="16%">Jackson Heights</th>
+    <th width="20%"></th>
+    <th width="16%">Jackson Heights</th>
     <th width="16%">Woodhaven</th>
     <th width="16%">Astoria</th>
     <th width="16%">Flushing</th>
