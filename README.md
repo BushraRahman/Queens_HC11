@@ -12,7 +12,7 @@
     <th width="16%">Woodhaven</th>
     <th width="16%">Astoria</th>
     <th width="16%">Flushing</th>
-    <th width="16%">Queens Overall</th>
+    <th width="16%">Queens</th>
   </tr>
   <tr>
     <th>Population</th>
