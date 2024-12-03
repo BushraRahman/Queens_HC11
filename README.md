@@ -23,12 +23,12 @@
     <td>2.361M</th>
   </tr>
   <tr>
-    <th>Racial Demographics*</th>
-    <td>53.53% Hispanic, 21.46% Asian, 18.61% White, 2.86% Black, 2.78% Two+, 0.66% Other, 0.09% NHPI</td>
-    <td>60% Hispanic, 20% Asian, 14% White, 3% Black, 2% Two+, 1% Other, 0% NHPI</td>
-    <td>25.1% Hispanic, 17.4% Asian, 42.5% White, 9.4% Black</td>
-    <td>17% Hispanic, 60% Asian, 16% White, 4% Black, 2% Two+, 1% Other</td>
-    <td>Asian (25.9%), White (23.8%), Black or African American (16.7%), Other (Hispanic) (13.5%), and White (Hispanic) (6.77%).</td>
+    <th>Racial Demographics<span style="font-size:8px;">*</span></th>
+    <td>54% Hispanic<br>21% Asian<br>19% White<br>3% Black<br>3% Two+<br>1% Other</td>
+    <td>60% Hispanic<br>20% Asian<br>14% White<br>3% Black<br>2% Two+<br>1% Other<br>0% NHPI</td>
+    <td>25% Hispanic<br>17% Asian<br>43% White<br>9% Black</td>
+    <td>17% Hispanic<br>60% Asian<br>16% White<br>4% Black<br>2% Two+<br>1% Other</td>
+    <td>26% Asian<br>24% White<br>17% Black<br>14% Hispanic (Other)<br>7% Hispanic (White)</td>
   </tr>
   <tr>
     <th>Median Age</th>
@@ -47,4 +47,4 @@
     <td>$82,431</td>
   </tr>
 </table>
-*Racial groups with a percentage of 0% were not included
+<span style="font-size:8px;">*Racial groups with a percentage of 0% were not included</span>
