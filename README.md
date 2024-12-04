@@ -2,7 +2,24 @@
 # Neighborhoods: Woodhaven, Jackson Heights, Astoria, Flushing
 # Team Members: Miao Zou, Julian Kotlyar, Linh Le, Bushra Rahman
 <a href='https://bushrarahman.github.io/Queens_HC11/'> [Home Page]</a> <a href='https://bushrarahman.github.io/Queens_HC11/Woodhaven.html'> [Woodhaven]</a> <a href='https://bushrarahman.github.io/Queens_HC11/astoria.html'> [Astoria]</a> <a href='https://bushrarahman.github.io/Queens_HC11/Jackson_Heights.html'> [Jackson Heights]</a> <a href='https://bushrarahman.github.io/Queens_HC11/flushing.html'> [Flushing]</a> <br>
+<style>
+* {
+  box-sizing: border-box;
+}
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 <p> Write a brief summary here:</p>
 <H2>HC2</H2>
 <table width="100%">
@@ -52,5 +69,11 @@
 The Clean Heat Program has helped New York City improve its air pollution by installing 70% renewable gases and helping the city achieve 0 emissions by 2040. Every home is equipped with two types of gas called #4 and #6. This helps reduce emissions to the environment while still meeting the needs of users from families to large restaurants. Furthermore, the Clean Heat Program also strictly controls installed equipment to control the level of environmental emissions as well as to encourage every home to use more renewable sources than fossil fuels.
 <H2>HC7&HC8</H2>
 The bar graph indicates that fuel type #4 is the most commonly used primary fuel in Queens, while fuel type #6 is less prevalent. Energy consumption patterns reveal that Queens has relatively higher energy usage compared to other boroughs in NYC. As Flushing is the heart of Queens, the graph highlights a greater number of buildings with a large total unit count in this area. This suggests that Queens hosts more restaurants and commercial establishments compared to smaller residential areas like the Bronx.
-<img src="Total Units(Queens).png" width="650" height="440"> 
-<img src="Primary Fuel(Queens).png" width = "650" height = "440">
+<div class="row">
+  <div class="column">
+    <img src="Total Units(Queens).png" width="650" height="440"> 
+  </div>
+  <div class="column">
+    <img src="Primary Fuel(Queens).png" width = "650" height = "440">
+  </div>
+
