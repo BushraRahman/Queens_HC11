@@ -50,3 +50,7 @@
 <span style="font-size:10px;">*Racial groups with a percentage of 0% were not included</span>
 <H2>HC3</H2>
 The Clean Heat Program has helped New York City improve its air pollution by installing 70% renewable gases and helping the city achieve 0 emissions by 2040. Every home is equipped with two types of gas called #4 and #6. This helps reduce emissions to the environment while still meeting the needs of users from families to large restaurants. Furthermore, the Clean Heat Program also strictly controls installed equipment to control the level of environmental emissions as well as to encourage every home to use more renewable sources than fossil fuels.
+<H2>HC7&HC8</H2>
+The bar graph suggests that fuel type #4 is the most common primary fuel used in Queens, while fuel type #6 is less prevalent. The energy consumption patterns reveals that Queensis relatively high compare to other borough in NYC. Since Flushing is the heart of Queens, the graph indicated that there are more buildings with large amount of Total Units. It shows that there are more restaurants and commercial places in Queens than other small residency such as Bronx. 
+<img src="Total Units(Queens).png" width="650" height="440"> 
+<img src="Primary Fuel(Queens).png" width = "650" height = "440">
