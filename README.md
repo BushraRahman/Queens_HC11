@@ -52,9 +52,9 @@ The Clean Heat Program has helped New York City improve its air pollution by ins
 <H2>Queens Emissions</H2>
 Queens has the second-highest household emissions among NYC boroughs, which underscores the need for citywide in fossil fuel reduction and energy efficiency improvements. Queens started to change transitioning heat pumps to electric heat pumps, enforcing emission control regulations on stoves, and adopting energy-efficient building standards directly influence Queens by reducing its reliance on fossil fuels for heating, cooling, and cooking. These moves also help the borough's energy inefficiencies, such as heat loss through poorly insulated windows, which contribute significantly to greenhouse gas emissions. As part of NYC's broader push for sustainability, Queens benefits from policies that target its higher-than-average emissions, helping to improve air quality and support the city’s clean energy goals.
 <H2>Data</H2>
-The bar graph indicates that fuel type #4 is the most commonly used primary fuel in Queens, while fuel type #6 is less prevalent.
-<img src="Primary Fuel(Queens).png" width = "650" height = "440">
-Below is a histogram of the number of units in Queens buildings. Energy consumption patterns reveal that Queens has relatively higher energy usage compared to other boroughs in NYC. As Flushing is the heart of Queens, the graph highlights a greater number of buildings with a large total unit count in this area. This suggests that Queens hosts more restaurants and commercial establishments compared to smaller residential areas like the Bronx.
+The bar graph indicates that fuel type #4 is the most commonly used primary fuel in Queens, while fuel type #6 is less prevalent.<br>
+<img src="Primary Fuel(Queens).png" width = "650" height = "440"><br>
+Below is a histogram of the number of units in Queens buildings. Energy consumption patterns reveal that Queens has relatively higher energy usage compared to other boroughs in NYC. As Flushing is the heart of Queens, the graph highlights a greater number of buildings with a large total unit count in this area. This suggests that Queens hosts more restaurants and commercial establishments compared to smaller residential areas like the Bronx.<br>
 <img src="Total Units(Queens).png" width="650" height="440"> 
 
 
